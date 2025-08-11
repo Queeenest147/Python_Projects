@@ -16,8 +16,6 @@ Here, I use Python to clean, explore, and visualise datasets for insights you ca
 - Handling missing data & outliers  
 - Automating repetitive analysis tasks with scripts
 
----
-
 ## 📊 Example Projects
 - **Sales Data Analysis** – Seasonal trends, revenue insights, and product performance  
 - **HR Analytics** – Employee attrition and hiring trend analysis  
