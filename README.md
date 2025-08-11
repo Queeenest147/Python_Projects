@@ -1,4 +1,4 @@
-##👋 Welcome!
+## Welcome!
 This repository is my **Python for Data Analysis** portfolio — where raw data meets Pandas, NumPy, and visualisation magic.  
 Here, I use Python to clean, explore, and visualise datasets for insights you can act on.
 
